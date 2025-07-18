@@ -28,7 +28,7 @@ export const Hero = () => {
             Scopri il Menu
           </Button>
           <Button variant="outline" size="lg" className="text-lg px-8 py-3 bg-white/10 border-white text-white hover:bg-white hover:text-foreground">
-            La Nostra Storia
+            Contatti
           </Button>
         </div>
       </div>
